@@ -47,4 +47,12 @@ UDP: Алгоритм Дейкстры в рекомендованных выш�
 - [Запись от 19.10.2018](https://www.youtube.com/watch?v=Rozkr_OnyEc)
 - [Запись от 09.11.2018](https://www.youtube.com/watch?v=NsVhZW_elfc)
 
+**Задание 1**:
+![Задание 1](images/businessInformatics/Webinar3Task1.png)
+**Задание 2**:
+![Задание 2.1](images/businessInformatics/Webinar3Task2_1.png)
+![Задание 2.2](images/businessInformatics/Webinar3Task2_2.png)
+**Задание 3**:
+![Задание 3](images/businessInformatics/Webinar3Task3.png)
+
 ## [Перечень курсов](recommends/COURSES.md), имея сертификат по которым, можно пропустить первый отборочный этап олимпиады: "Я профессионал"
