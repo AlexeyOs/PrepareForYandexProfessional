@@ -58,5 +58,30 @@ UDP: Алгоритм Дейкстры в рекомендованных выш�
 ![Задание 4](images/businessInformatics/Webinar3Task4.png)
 **Задание 5**:
 ![Задание 5](images/businessInformatics/Webinar3Task5.png)
+**Задание 6**:
+![Задание 6](images/businessInformatics/Webinar3Task6_1.png)
+![Задание 6](images/businessInformatics/Webinar3Task6_2.png)
+**Задание 7**:
+![Задание 7](images/businessInformatics/Webinar3Task7.png)
+**Задание 8**:
+![Задание 8](images/businessInformatics/Webinar3Task8.png)
+**Задание 9**:
+![Задание 9](images/businessInformatics/Webinar3Task9.png)
+**Задание 9**:
+![Задание 9](images/businessInformatics/Webinar3Task9.png)
+**Задание 9**:
+![Задание 9](images/businessInformatics/Webinar3Task9.png)
+**Задание 10**:
+![Задание 10](images/businessInformatics/Webinar3Task10.png)
+**Задание 11**:
+![Задание 11](images/businessInformatics/Webinar3Task11.png)
+**Задание 12**:
+![Задание 12](images/businessInformatics/Webinar3Task12.png)
+**Задание 13**:
+![Задание 13](images/businessInformatics/Webinar3Task13.png)
+**Задание 14**:
+![Задание 14](images/businessInformatics/Webinar3Task14.png)
+**Задание 15**:
+![Задание 15](images/businessInformatics/Webinar3Task15.png)
 
 ## [Перечень курсов](recommends/COURSES.md), имея сертификат по которым, можно пропустить первый отборочный этап олимпиады: "Я профессионал"
